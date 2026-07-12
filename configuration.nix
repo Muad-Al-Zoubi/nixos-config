@@ -153,7 +153,7 @@
     wget
     curl
     vim
-    neofetch
+    fastfetch
     unzip
 
     # Wayland / Hyprland rice stack
