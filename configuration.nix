@@ -202,7 +202,7 @@
   fonts.packages = with pkgs; [
     # Placeholder Nerd Font — swap for Maple Mono once packaged (not in nixpkgs by
     # default; you'd need to package it yourself, like Frost-Phoenix does in pkgs/).
-    (nerdfonts.override { fonts = [ "Iosevka" ]; })
+    nerdfonts.iosevka
   ];
 
   # Compatibility pin set once at first install — tells certain services which
