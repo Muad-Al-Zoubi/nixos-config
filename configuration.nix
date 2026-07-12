@@ -161,7 +161,7 @@
     hyprpaper     # wallpaper daemon
     hypridle      # idle management
     hyprlock      # lock screen
-    rofi-wayland  # app launcher
+    rofi          # app launcher
     mako          # notification daemon
     grim          # screenshot tool
     slurp         # screen area selector (used with grim)
