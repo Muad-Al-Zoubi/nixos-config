@@ -178,7 +178,6 @@
     # Gaming
     lutris
     heroic
-    bottles
     mangohud       # in-game performance overlay
     protonup-qt    # manages custom Proton/GE versions
     vulkan-tools   # Vulkan diagnostics (vulkaninfo, vkcube)
